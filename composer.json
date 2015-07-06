@@ -12,6 +12,10 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0"
+    "php": ">=5.4.0",
+    "oligriffiths/nooku-class-locator": "dev-master"
+  },
+  "autoload": {
+    "files": ["autoload.php"]
   }
 }
