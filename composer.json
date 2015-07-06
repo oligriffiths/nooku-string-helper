@@ -12,7 +12,6 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
-    "oligriffiths/nooku-class-locator": "0.0.1"
+    "php": ">=5.4.0"
   }
 }
