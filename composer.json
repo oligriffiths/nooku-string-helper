@@ -1,0 +1,18 @@
+{
+  "name": "oligriffiths/nooku-string-helper",
+  "description": "Nooku String Helper",
+  "keywords": ["nooku", "string"],
+  "type": "library",
+  "homepage": "https://github.com/nooku/nooku-platform",
+  "license": "Apache2",
+  "authors": [
+    {
+      "name": "Nooku",
+      "homepage": "https://github.com/nooku"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "oligriffiths/nooku-class-locator": "0.0.1"
+  }
+}
